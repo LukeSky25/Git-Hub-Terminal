@@ -1,2 +1,3 @@
 Para desenvolver um software é necessario fazer códigos (na maioria das vezes)
 Olá sou uma novalinha de códigoo!!!!
+eu fui adicionada no git
